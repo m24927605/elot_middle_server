@@ -1,0 +1,18 @@
+module.exports.redis = {
+    redis_url: '127.0.0.1',
+    redis_port: 6379,
+    mq_onreceive_process_check: 'mq_onreceive_process_check',
+    asset_history_redis_hashkey: 'asset_history_hashkey',
+    asset_redis_hashkey: 'asset_hashkey',
+    trade_asset_history_redis_hashkey: 'trade_asset_history_hashkey',
+    trade_asset_redis_hashkey: 'trade_asset_hashkey',
+    order_redis_hashkey: 'order_redis_hashkey',
+    order_confirm_redis_hashkey: 'order_confirm_redis_hashkey',
+    asset_tx_redis_hashkey: 'asset_tx_redis_hashkey',
+    address_receive_locked_hashkey: 'address_receive_locked_hashkey',
+    address_send_locked_hashkey: 'address_send_locked_hashkey',
+    gas_tanker_hashkey: 'gas_tanker_hashkey',
+    token_fee_apply_hashkey: 'token_fee_apply_hashkey',
+    email_url_hashkey: 'email_url_hashkey',
+    address_block_hash: 'address_block_hash',
+};
