@@ -33,7 +33,7 @@
     "hd-keychain": "^1.0.1",
     "include-all": "^1.0.8",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "log4js": "^3.0.5",
     "md5": "^2.2.1",
     "mocha": "^5.2.0",
